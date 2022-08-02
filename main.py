@@ -1,5 +1,3 @@
-#Make a snake game
-
 import pygame
 import sys
 import random
